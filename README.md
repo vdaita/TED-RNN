@@ -9,3 +9,5 @@ Watch video here: https://www.youtube.com/watch?v=-OodHtJ1saY
 To run install https://github.com/karpathy/char-rnn
 
 char-rnn cloud setup: https://www.terminal.com/snapshot/f62c5d8da1ba23cae50c55307890259a57e463492d68bb9028d375e95d666a7a
+
+For a CPU-only version, check the ted_lstm.t7_cpu.t7 file. Please post any issues if needed!
